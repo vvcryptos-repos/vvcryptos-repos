@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Tu Nombre o Alias]</h1>
-<h3 align="center">[Tu Rol] @ [Tu Empresa] • Passionate about [Área Técnica o Interés]</h3>
+<h1 align="center">Hi 👋, I'm vvcryptos </h1>
+<h3 align="center"> • Passionate about metaverse </h3>
 
 <p align="center">
-  <a href="https://github.com/[tu-usuario]">
+  <a href="https://github.com/vvcryptos-repos">
     <img src="https://komarev.com/ghpvc/?username=[tu-usuario]&label=Profile%20views&color=0e75b6&style=flat" alt="[tu-usuario]" />
   </a>
 </p>
