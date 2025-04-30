@@ -51,7 +51,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -65,9 +64,3 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vvcryptos-repos&theme=onedark&no-frame=true&column=4" />
-</p>
