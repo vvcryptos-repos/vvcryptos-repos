@@ -67,9 +67,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vvcryptos-repos&theme=github-dark&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvcryptos-repos&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
 </p>
+
