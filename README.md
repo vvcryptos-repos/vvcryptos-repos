@@ -1,60 +1,47 @@
-<h1 align="center">Hi 👋, I'm vvcryptos </h1>
-<h3 align="center"> • Passionate about metaverse </h3>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Software Developer @ <a href="https://spacedev.io">Spacedev</a></h3>
 
 <p align="center">
-  <a href="https://github.com/vvcryptos-repos">
-    <img src="https://komarev.com/ghpvc/?username=[tu-usuario]&label=Profile%20views&color=0e75b6&style=flat" alt="[tu-usuario]" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vvcryptos-repos&label=Profile%20views&color=0e75b6&style=flat" alt="vvcryptos-repos" />
 </p>
 
 ---
 
 ### 🧠 Overview
 
-- 🔭 I’m currently working on: **[proyecto actual o área]**
-- 🌱 I’m learning: **[tecnología que estás estudiando]**
-- 💬 Ask me about: **[temas que dominás]**
-- 👨‍💻 All of my projects are available at: [https://yourwebsite.dev](https://yourwebsite.dev)
-- 📫 How to reach me: **[tu@email.com]**
-- ⚡ Fun fact: **[dato divertido o random sobre vos]**
+- 🔭 Working on: **Smart Contracts, Fullstack Apps, and AI tools @ [Spacedev](https://spacedev.io)**
+- 🌱 Currently learning: **ZK Proofs, LLM agents**
+- 💬 Ask me about: **Blockchain, Frontend, Backend**
+- 📫 Reach me at: **name@spacedev.io**
+- ⚡ Fun fact: **I debug with lo-fi beats and mate at 2AM**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,solidity,go,java" />
-</p>
-
-**Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,hardhat,tailwind" />
-</p>
-
-**Databases & Infra**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,docker,aws" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ---
 
-### 🔗 Connect with me
+### 🌐 Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/[tu-linkedin]" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  <a href="https://linkedin.com/in/[your-handle]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/[tu-twitter]" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" />
+  <a href="https://twitter.com/[your-handle]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://[tu-web].com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=webflow" alt="portfolio" />
+  <a href="mailto:name@spacedev.io" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -70,3 +57,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvcryptos-repos&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vvcryptos-repos&theme=onedark&no-frame=true&column=4" />
+</p>
